@@ -1,8 +1,18 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-07 12:34:43",
+  "updated": "2026-09-07 13:25:02",
   "collections": [
+    {
+      "id": "rock-band-3-part-1-13b7aec5",
+      "name": "Rock Band 3 Part 1",
+      "description": "",
+      "games": 204,
+      "size": 42709143316,
+      "shared": "2026-09-07 13:25:00",
+      "updated": "2026-09-07 13:25:00",
+      "app_version": "1.35"
+    },
     {
       "id": "valve-games-5f117d44",
       "name": "Valve Games",

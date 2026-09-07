@@ -1,0 +1,1814 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.35",
+  "shared": "2026-09-07 13:25:26",
+  "collection": {
+    "name": "Rock Band 3 Part 3",
+    "description": "",
+    "created": "2026-09-06 23:37:30",
+    "updated": "2026-09-06 23:37:30",
+    "games": [
+      {
+        "name": "Rock Band - Muse - Hysteria (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 30802463,
+        "date": "1618228285",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Mute Math - Control (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26062892,
+        "date": "1618228287",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Mute Math - Typical (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 31592415,
+        "date": "1618228291",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - My Chemical Romance - I'm Not Okay (I Promise) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22392220,
+        "date": "1618228291",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - My Chemical Romance - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 73181677,
+        "date": "1618228292",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - My Chemical Romance - Teenagers (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10759,
+        "date": "1618228291",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - My Chemical Romance - Welcome to the Black Parade (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 41040554,
+        "date": "1618228297",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nazareth - Love Hurts (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 19690901,
+        "date": "1618228296",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Neil Peart - The Hockey Theme (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 6204082,
+        "date": "1618228296",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Neon Trees - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 80850133,
+        "date": "1618228299",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nickelback - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 187123282,
+        "date": "1618240237",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Night Ranger - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 87716635,
+        "date": "1618240244",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nightwish - Amaranth (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 32154733,
+        "date": "1618240251",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nightwish - Amaranth (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10385,
+        "date": "1618240256",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nikko - Break My Heart (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 28362652,
+        "date": "1618240263",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nikko - Don't Tell Me (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26617562,
+        "date": "1618240269",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nine Inch Nails - Closer (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 45003070,
+        "date": "1618240276",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nine Inch Tails - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 71261890,
+        "date": "1618240285",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nine Inch Tails - Pack 02 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 117427624,
+        "date": "1618240294",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nirvana - About a Girl (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26637967,
+        "date": "1618240305",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nirvana - Bleach Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 56656701,
+        "date": "1618240315",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nirvana - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 132080103,
+        "date": "1618240323",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Nirvana - Pack 02 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 94349307,
+        "date": "1618240332",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - No Doubt - New (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 37203012,
+        "date": "1618240338",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - No Doubt - No Doubt - Tragic Kingdom - The Complete Album (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 472310895,
+        "date": "1618240355",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - No Doubt - The Singles 1992-2003 (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 416924559,
+        "date": "1618240370",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - OK Go - Shooting the Moon (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 31043563,
+        "date": "1618240376",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Oasis - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 94389181,
+        "date": "1618228806",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Oasis - Rock 'n' Roll Star (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 45227110,
+        "date": "1618240382",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Oasis - Supersonic (Live) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 31030632,
+        "date": "1618240389",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Ohio Players - Fire (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 34986321,
+        "date": "1618240396",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Ohio Players - Love Rollercoaster (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 40422145,
+        "date": "1618240404",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Ohio Players - Love Rollercoaster (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10848,
+        "date": "1618240409",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Oingo Boingo - Weird Science (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 49384427,
+        "date": "1618240417",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Oingo Boingo - Weird Science (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12466,
+        "date": "1618240423",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - One Night Only - Just for Tonight (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29788295,
+        "date": "1618240428",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - OneRepublic - Stop and Stare (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 28586248,
+        "date": "1618240436",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Orianthi - According to You (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 19425766,
+        "date": "1618240442",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Otis Redding - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 72080582,
+        "date": "1618240450",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Owl City - Fireflies (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 23691978,
+        "date": "1618240456",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Ozzy Osbourne - 8-Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 257990935,
+        "date": "1618229212",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Ozzy Osbourne - Mr. Crowley (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 15877,
+        "date": "1618240461",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Ozzy Osbourne - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 227624971,
+        "date": "1618229215",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - P.O.D - Boom (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 18535001,
+        "date": "1618229203",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - P.O.D - Boom (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 9482,
+        "date": "1618229204",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - P.O.D - Youth of the Nation (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 37020507,
+        "date": "1618229210",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - P.O.D. - Alive (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25328551,
+        "date": "1618229210",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pantera - Five Minutes Alone (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 15829,
+        "date": "1618229214",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pantera - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 132044823,
+        "date": "1618229218",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pantera - The Great Southern Trendkill (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 353326226,
+        "date": "1618229223",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pantera - Walk (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12982,
+        "date": "1618229218",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Papa Roach - Last Resort (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25705061,
+        "date": "1618229221",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Papa Roach - Lifeline (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27616280,
+        "date": "1618229224",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Papa Roach - Time Is Running Out (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 24502461,
+        "date": "1618229225",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Paramore - Crushcrushcrush (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22750586,
+        "date": "1618229226",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pat Benatar - Heartbreaker (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27586541,
+        "date": "1618229229",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pat Benatar - Hit Me With Your Best Shot (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 19281467,
+        "date": "1618229229",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pat Benatar - We Belong (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 9225,
+        "date": "1618229230",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pat Benatar Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 194956514,
+        "date": "1618229237",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Paul McCartney & Wings - Let Me Roll It (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10283,
+        "date": "1618229234",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Paul McCartney - New York City - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 96333431,
+        "date": "1618229238",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pearl Jam - Backspacer (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 261159861,
+        "date": "1618229250",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pearl Jam - Even Flow (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 11523,
+        "date": "1618229240",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pearl Jam - Ten (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 367708553,
+        "date": "1618229250",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Peter Cetera - Glory of Love (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 33735297,
+        "date": "1618229247",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Peter Frampton - Do You Feel Like We Do (Live) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 84669719,
+        "date": "1618229251",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Phish - Stash (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 43170403,
+        "date": "1618229253",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Phish - Stash (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22830,
+        "date": "1618229254",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Phish - Tweezer (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 53076247,
+        "date": "1618229256",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Phoenix - 1901 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27786013,
+        "date": "1618229257",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Phoenix - Lisztomania (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 31663586,
+        "date": "1618229258",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Picture Me Broken - Dearest (I'm So Sorry) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25643535,
+        "date": "1618229260",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pink - Raise Your Glass (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 34038940,
+        "date": "1618229262",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pink - Who Knew (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22681439,
+        "date": "1618229263",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pixies - Doolittle (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 272983939,
+        "date": "1618229268",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Platero y Tu - Hay Poco Rock N Roll (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 37297785,
+        "date": "1618229268",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pleymo - New Wave (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27589141,
+        "date": "1618229270",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Poison - Nothin' but a Good Time (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12330,
+        "date": "1618229267",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Poison - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 84916744,
+        "date": "1618229274",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Pretty Hate Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 174771411,
+        "date": "1618229277",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Procol Harum - A Whiter Shade of Pale (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12802539,
+        "date": "1618229273",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Prong - Idealistic Types (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26319809,
+        "date": "1618229276",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Prong - The Banishment (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 43804852,
+        "date": "1618229278",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Puddle of Mudd - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 82627121,
+        "date": "1618229287",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Puddle of Mudd - She Hates Me (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 9616,
+        "date": "1618229281",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Punk - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 55592988,
+        "date": "1618229284",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Hammer to Fall (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12347,
+        "date": "1618229283",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - I Want It All (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 13532,
+        "date": "1618229286",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - I Want To Break Free (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10052,
+        "date": "1618229288",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Keep Yourself Alive (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12097,
+        "date": "1618229288",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Killer Queen (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 11654,
+        "date": "1618229292",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Now I'm Here (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 13293,
+        "date": "1618229293",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - One Vision (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12784,
+        "date": "1618229294",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 234699224,
+        "date": "1618229300",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Somebody To Love (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10691,
+        "date": "1618229296",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Tenement Funster (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12035,
+        "date": "1618229297",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - Under Pressure (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12314,
+        "date": "1618229300",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - We Are the Champions (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12295,
+        "date": "1618229300",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen - We Will Rock You (RB3 version) (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 8395,
+        "date": "1618229301",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen Extravaganza - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 159056569,
+        "date": "1618229311",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queen RB3 Enhanced Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 176612473,
+        "date": "1618229309",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queens of the Stone Age - In My Head (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27149894,
+        "date": "1618229307",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queens of the Stone Age - In My Head (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 11840,
+        "date": "1618229305",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queens of the Stone Age - Track Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 69982323,
+        "date": "1618229314",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Queensryche - Silent Lucidity (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 40000585,
+        "date": "1618229312",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - R.E.M. - Losing My Religion (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 43070007,
+        "date": "1618229314",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - R.E.M. - Man on the Moon (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 35759108,
+        "date": "1618229316",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - R.E.M. - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 210973277,
+        "date": "1618229321",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - REO Speedwagon - Keep on Loving You (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22504309,
+        "date": "1618229321",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - REO Speedwagon-Styx - Tour '09 Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 235784875,
+        "date": "1618229324",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Radiohead - My Iron Lung (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 32231716,
+        "date": "1618229323",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rage Against the Machine - Guerrilla Radio (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26094656,
+        "date": "1618229327",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rancid - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 60687866,
+        "date": "1618229334",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rascal Flatts - Me and My Gang (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22390848,
+        "date": "1618229328",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Reba McEntire - Fancy (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 28150272,
+        "date": "1618229329",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Red Hot Chili Peppers - Blood Sugar Sex Magik (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 533177603,
+        "date": "1618229347",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Red Hot Chili Peppers - Blood Sugar Sex Magik (Album) (World) (Alt 1) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 533177601,
+        "date": "1618229345",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Red Hot Chili Peppers - Snow ((Hey Oh)) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 43599820,
+        "date": "1618229339",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Red Hot Chili Peppers - Tell Me Baby (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 34635682,
+        "date": "1618229346",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Relient K - Must Have Done Something Right (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29464958,
+        "date": "1618229347",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Richard Thompson - The Way That It Shows (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 35861158,
+        "date": "1618229352",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rick Springfield - I've Done Everything for You (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12556,
+        "date": "1618229351",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rick Springfield - Jessie's Girl (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 11161,
+        "date": "1618229351",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rick Springfield - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 65007600,
+        "date": "1618229354",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rise Against - Audience of One (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 11032,
+        "date": "1618229356",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rise Against - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 80566352,
+        "date": "1618229360",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rise Against - Pack 02 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 68727574,
+        "date": "1618229358",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rise Against - The Good Left Undone (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 10562,
+        "date": "1618229358",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Roadrunner Records - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 217409997,
+        "date": "1618229378",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rob Zombie - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 67595893,
+        "date": "1618229366",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rob Zombie - War Zone (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27844346,
+        "date": "1618229365",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rock Band Free Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 207265858,
+        "date": "1618229372",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rock Band Live 2008 Tour Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 96433962,
+        "date": "1618229372",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rock Band Network Megamix 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 80972031,
+        "date": "1618229373",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rockin' the Holidays - 2008 Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 61699196,
+        "date": "1618240468",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Roy Orbison - 75th Birthday Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 58560966,
+        "date": "1618240477",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Roy Orbison - Only the Lonely (Know the Way I Feel) (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 8877,
+        "date": "1618240482",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Roy Orbison - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 125202626,
+        "date": "1618240495",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Run-DMC - King of Rock (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 37742649,
+        "date": "1618240505",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Closer to the Heart (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 15722637,
+        "date": "1618240514",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Limelight (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 37867594,
+        "date": "1618240520",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Moving Pictures (Album) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 196483729,
+        "date": "1618229640",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Subdivisions (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29948260,
+        "date": "1618229628",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Subdivisions (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12617,
+        "date": "1618229629",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Working Man (Vault Edition) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27518185,
+        "date": "1618229638",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Rush - Working Man (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 46859468,
+        "date": "1618229636",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Santana - Black Magic Woman (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12772,
+        "date": "1618229634",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Sara Evans - Suds in the Bucket (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 27922538,
+        "date": "1618229639",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Save Ferris - Come on Eileen (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 32560243,
+        "date": "1618229643",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Save Ferris - Come on Eileen (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 12813,
+        "date": "1618229643",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Scars on Broadway - They Say (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22572259,
+        "date": "1618229645",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Scene - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 80893149,
+        "date": "1618229648",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Screaming Trees - Nearly Lost You (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 33294234,
+        "date": "1618229648",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Serj Tankian - Beethoven's C--- (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 20537838,
+        "date": "1618229648",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Serj Tankian - Empty Walls (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29503245,
+        "date": "1618229651",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Serj Tankian - Sky Is Over (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 21909796,
+        "date": "1618229656",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Shaimus - All of This (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 17276844,
+        "date": "1618229654",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Shaimus - Tie You Down (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25066620,
+        "date": "1618229654",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Sheryl Crow - All I Wanna Do (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 36467863,
+        "date": "1618229657",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Shinedown - Devour (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26893547,
+        "date": "1618229660",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Shinedown - Junkies for Fame (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 24558882,
+        "date": "1618229660",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silverchair - Straight Lines (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 28056832,
+        "date": "1618229662",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silverchair - Tomorrow (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 30805586,
+        "date": "1618229666",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silversun Pickups - Melatonin (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29350355,
+        "date": "1618229665",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silversun Pickups - Panic Switch (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 50843316,
+        "date": "1618229669",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silversun Pickups - Sort Of (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 55320073,
+        "date": "1618229672",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silversun Pickups - Well Thought Out Twinkles (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29320163,
+        "date": "1618229674",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Silvertide - Blue Jeans (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25029785,
+        "date": "1618229674",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Simon & Garfunkel - I Am a Rock (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 11631552,
+        "date": "1618229674",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Simon & Garfunkel - The Sounds of Silence (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 17524271,
+        "date": "1618229680",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Siouxsie and The Banshees - Cities in Dust (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 35141763,
+        "date": "1618229682",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Siouxsie and The Banshees - Cities in Dust (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 9417,
+        "date": "1618229679",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Siouxsie and The Banshees - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 79431663,
+        "date": "1618229687",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Siouxsie and The Banshees - Peek-a-Boo (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 21414295,
+        "date": "1618229685",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Skillet - Monster (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26168931,
+        "date": "1618229686",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Skizoo - Dame Aire (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 26102215,
+        "date": "1618229689",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Sleater-Kinney - You're No Rock N Roll Fun (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 18129874,
+        "date": "1618229690",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Slipknot - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 111150472,
+        "date": "1618229698",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Smash Mouth - All-Star (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 22481658,
+        "date": "1618229692",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Smash Mouth - Can't Get Enough of You Baby (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 19332313,
+        "date": "1618229696",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Smash Mouth - Why Can't We Be Friends (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25757395,
+        "date": "1618229696",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Smashing Pumpkins - Siva (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 29638780,
+        "date": "1618229698",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Smashing Pumpkins - Zero (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 14893638,
+        "date": "1618229707",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Snoop Dogg - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 294049612,
+        "date": "1618229709",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Snow Patrol - Take Back the City (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 36369402,
+        "date": "1618229705",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Social Distortion - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 118626541,
+        "date": "1618229709",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soft Cell - Tainted Love (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 14401721,
+        "date": "1618229713",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Sonic Youth - Kool Thing (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 30061649,
+        "date": "1618229723",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - Burden in My Hand (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 13105,
+        "date": "1618229715",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - a-ha - Take on Me (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 25144436,
+        "date": "1618229717",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - a-ha - Take on Me (pro) (upgrade) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 9799,
+        "date": "1618229720",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - Celebrating Soundgarden On Tour 2011 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 188623734,
+        "date": "1618246689",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - Jesus Christ Pose (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 39964871,
+        "date": "1618246686",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - Outshined (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 11597,
+        "date": "1618246686",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - Pretty Noose (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 29779075,
+        "date": "1618246686",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - Pretty Noose (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 14576,
+        "date": "1618246691",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Soundgarden - The Day I Tried to Live (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 11417,
+        "date": "1618246690",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Spinal Tap - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 93941524,
+        "date": "1618246693",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - Spinal Tap's Tap Ten (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 285543424,
+        "date": "1618246699",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band - SpongeBob SquarePants - Pack 01 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_4",
+        "size": 56435111,
+        "date": "1618246697",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      }
+    ]
+  }
+}

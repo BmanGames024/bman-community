@@ -1,8 +1,18 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-07 13:27:59",
+  "updated": "2026-09-07 13:29:03",
   "collections": [
+    {
+      "id": "rock-band-3-part-7-abed9268",
+      "name": "Rock Band 3 Part 7",
+      "description": "",
+      "games": 200,
+      "size": 5510433590,
+      "shared": "2026-09-07 13:29:01",
+      "updated": "2026-09-07 13:29:01",
+      "app_version": "1.35"
+    },
     {
       "id": "rock-band-3-part-6-8da76f0b",
       "name": "Rock Band 3 Part 6",

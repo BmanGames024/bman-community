@@ -1,0 +1,32 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.34",
+  "shared": "2026-09-07 09:26:57",
+  "collection": {
+    "name": "left4dead bundle",
+    "description": "",
+    "created": "2026-09-07 09:26:31",
+    "updated": "2026-09-07 09:26:36",
+    "games": [
+      {
+        "name": "Left 4 Dead GOTY [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6728310233,
+        "date": "1617655439",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Left 4 Dead 2 [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6515828131,
+        "date": "1617655479",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,1814 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.35",
+  "shared": "2026-09-07 13:29:21",
+  "collection": {
+    "name": "Rock Band 3 Part 9",
+    "description": "",
+    "created": "2026-09-06 23:39:33",
+    "updated": "2026-09-06 23:42:46",
+    "games": [
+      {
+        "name": "Rock Band Network - Mikel James - Back to You (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 42054962,
+        "date": "1618256396",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mile Marker Zero - A Thousand Nights (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27392079,
+        "date": "1618256395",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mile Marker Zero - Laceration (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 53508227,
+        "date": "1618256401",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mind At Risk - Be Right Here (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35572936,
+        "date": "1618256401",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mindflow - Destructive Device (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 52793545,
+        "date": "1618256401",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Minnesota Sex Junkies - Burning Rome (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35132775,
+        "date": "1618256406",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Minnesota Sex Junkies - Fly on the Wall (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 11723378,
+        "date": "1618256412",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Minnesota Sex Junkies - Hate Myself (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26765649,
+        "date": "1618256412",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Minnesota Sex Junkies - I Want It Back (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31877993,
+        "date": "1618256412",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Minnesota Sex Junkies - Like This (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 37650649,
+        "date": "1618256413",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Minutes Like Ours - Lights Out (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29890526,
+        "date": "1618256417",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Miss May I - Relentless Chaos (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 15979644,
+        "date": "1618256417",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Modern Skirts - Bridges and Overpasses (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31082380,
+        "date": "1618256418",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Modern Skirts - Eveready (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23128067,
+        "date": "1618256419",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Molehill - On the Wall (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22743093,
+        "date": "1618256427",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Monte Casino - All I Need (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 30325839,
+        "date": "1618256428",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Morgawr - Herlathing (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 57079407,
+        "date": "1618256424",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Morgawr - Lindisfarne (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35963228,
+        "date": "1618256427",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mortice - Mayhem (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 19947319,
+        "date": "1618256429",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Moses Tucker - Damn Good Man (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31390484,
+        "date": "1618256433",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Motionless in White - Abigail (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 21815368,
+        "date": "1618256433",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Moving Atlas - Becoming Blue (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23798302,
+        "date": "1618256434",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Moving Picture Show - Perfect World (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27779297,
+        "date": "1618256434",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mudvayne - Happy (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25423343,
+        "date": "1618256438",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mudvayne - Happy (pro) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 12549,
+        "date": "1618256437",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Murder FM - Machine Gun Kisses (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31526809,
+        "date": "1618256440",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - MxPx - One Step Further (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23748310,
+        "date": "1618256440",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - My First Earthquake - Outta the Band (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 14577657,
+        "date": "1618256442",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - My Morning Jacket - I'm Amazed (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26993046,
+        "date": "1618256444",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - My Ruin - Deconsecrated (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29321428,
+        "date": "1618256446",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - My Ruin - Walk of Shame (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29748609,
+        "date": "1618256446",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - MyChildren MyBride - Lost Boys (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26516898,
+        "date": "1618256447",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mystakin - A Fresh Start (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 13673285,
+        "date": "1618256458",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mystakin - Autumns of Optimism (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20459202,
+        "date": "1618256462",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mystic Syntax - Blasphemous (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35091674,
+        "date": "1618256467",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mystic Syntax - Flesh Pull (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28554101,
+        "date": "1618256458",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Mystic Syntax - Let It Change (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31724508,
+        "date": "1618256466",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nachtmystium - Nightfall (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 21592314,
+        "date": "1618256464",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nathaniel Whitlock - The Main Thing (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 9728663,
+        "date": "1618256467",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nations Afire - Curtain Call (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25049270,
+        "date": "1618256474",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nautiluz - Chasing the Light (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34998134,
+        "date": "1618256472",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nerf Herder - Mr. Spock (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20720733,
+        "date": "1618256473",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nerf Herder - Welcome to My World (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 13793052,
+        "date": "1618256472",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - New Rising Son - Holy Ground (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31238107,
+        "date": "1618256477",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - New Rising Son - Rain (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 36143334,
+        "date": "1618256478",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - New West - Bend (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 17730180,
+        "date": "1618256493",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nick Gallant - Inside Out (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25541610,
+        "date": "1618256487",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nick Gallant - Turn Yourself Around (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 18186810,
+        "date": "1618256493",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - NightShade - The Depths of Memory (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33895038,
+        "date": "1618256494",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - NightShade - The Depths of Memory (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33894488,
+        "date": "1618256495",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - A Grim Struggle (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35654946,
+        "date": "1618256498",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Collision of Fate (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 37178264,
+        "date": "1618256499",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Hate Turns Black (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31816468,
+        "date": "1618256500",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Hate Turns Black (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31816084,
+        "date": "1618256526",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Sham Piety (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34220570,
+        "date": "1618256528",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Sham Piety (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34220174,
+        "date": "1618256528",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Sham Piety (World) (Alt 1) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34220176,
+        "date": "1618256526",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Sham Piety (World) (v20121212) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34220171,
+        "date": "1618256532",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Shed the Blood (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29764930,
+        "date": "1618256536",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - So Far Away - Delirium of the Fallen (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33834178,
+        "date": "1618256535",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - So Far Away-Delirium of the Fallen (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33834025,
+        "date": "1618256535",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nightrage - Wearing a Martyr's Crown (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31377372,
+        "date": "1618256538",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - No Bragging Rights - Death of an Era (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25622375,
+        "date": "1618256553",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - No Bragging Rights - Death of an Era (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25212448,
+        "date": "1618256556",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - No Bragging Rights - Ode to Logan (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28970075,
+        "date": "1618256553",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - No Crossing - Midnight Daydreams (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20867944,
+        "date": "1618256556",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - No Justice - Love Song (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27418945,
+        "date": "1618256558",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Noah Engh the Kid Fantastic - Buy You a House (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 12185280,
+        "date": "1618256558",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nonpoint - Alive and Kicking (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27043558,
+        "date": "1618256561",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nonpoint - Bullet with a Name (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23716964,
+        "date": "1618256562",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nonpoint - Crazy (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20606677,
+        "date": "1618256564",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nonpoint - Miracle (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27290405,
+        "date": "1618256565",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Norma Jean - Deathbed Atheist (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 37033648,
+        "date": "1618256566",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Norma Jean - Leaderless and Self Enlisted (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29158061,
+        "date": "1618256567",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Norma Jean - The Anthem of the Angry Brides (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 19491920,
+        "date": "1618256569",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Not Above Evil - The Duel (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 48988728,
+        "date": "1618256570",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nothing More - Fat Kid (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25773402,
+        "date": "1618256572",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nova - California (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20570979,
+        "date": "1618256572",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Nushu - Spill (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 17305428,
+        "date": "1618256581",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - OK Go - White Knuckles (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28847663,
+        "date": "1618256581",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - OK Go - White Knuckles - The Big Robot Remix (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34102475,
+        "date": "1618256582",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - OWL - Charmed (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 18863267,
+        "date": "1618256582",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - OWL - Violent Center (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22339710,
+        "date": "1618256586",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Oceano - District of Misery (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 13606027,
+        "date": "1618256586",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Octavio Sune - Caiamos (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27709992,
+        "date": "1618256589",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Octavio Sune - Esto ya lo Toque Manana (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26279583,
+        "date": "1618256589",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Of Last Resort - Fade Away (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26363821,
+        "date": "1618256592",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Of Mice & Men - Second & Sebring (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25002350,
+        "date": "1618256592",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Of Mice & Men - Those in Glass Houses (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 17121905,
+        "date": "1618256594",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Of Montreal - Heimdalsgate Like a Promethean Curse (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 36175691,
+        "date": "1618256595",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Oliver Pride - Nothing There (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 17474967,
+        "date": "1618256596",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - One Year Later - Absolution (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22490741,
+        "date": "1618256609",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - One Year Later - Absolution (2x Bass Pedal) (World) (Alt 1) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22490739,
+        "date": "1618256605",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - One Year Later - Absolution (2x Bass Pedal) (World) (v20121212) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22490731,
+        "date": "1618256607",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - One Year Later - Absolution (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22490504,
+        "date": "1618256606",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - One Year Later - Absolution (World) (Alt 1) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22490501,
+        "date": "1618256610",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - One Year Later - Absolution (World) (v20121212) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22490496,
+        "date": "1618256611",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Onslaught - Godhead (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33438969,
+        "date": "1618256612",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Orange Avenue - Just Refrain (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20256610,
+        "date": "1618256614",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Order of the Crimson Wizard - Scream Ceremony (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23189630,
+        "date": "1618256615",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Otep - Fists Fall (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27578623,
+        "date": "1618256617",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Otep - Smash the Control Machine (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28425073,
+        "date": "1618256617",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Parry Gripp - Last Train to Awesometown (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 10995079,
+        "date": "1618256619",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Parry Gripp - Nom Nom Nom Nom Nom Nom Nom (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 4815128,
+        "date": "1618256620",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Parry Gripp - Spaghetti Cat (I Weep For You) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 6686864,
+        "date": "1618256621",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Parry Gripp - The Girl at the Video Game Store (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 15996934,
+        "date": "1618256624",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Partially Poetic - She's a Runaway (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29044242,
+        "date": "1618256634",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Paul Henry Smith & the Fauxharmonic Orchestra - Beethoven - Symphony No. 9 - Scherzo (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 19605941,
+        "date": "1618256624",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Paul Henry Smith & the Fauxharmonic Orchestra - Flight of the Bumblebee (Rimsky-Korsakov) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 8205780,
+        "date": "1618256635",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Paul Henry Smith & the Fauxharmonic Orchestra - Hungarian Dance No. 5 (Brahms) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 12699534,
+        "date": "1618256635",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Paul Henry Smith & the Fauxharmonic Orchestra - Night on Bald Mountain (Mussorgsky) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 15012446,
+        "date": "1618256634",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Perfect Hero - Passion Of My Life (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 37962705,
+        "date": "1618256646",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Periphery - Buttersnips (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28540571,
+        "date": "1618256639",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Periphery - Icarus Lives (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 16811093,
+        "date": "1618256640",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Philip Franco - Jam (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 17676516,
+        "date": "1618256643",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pink Flag - Dirty Hair Party (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 12139045,
+        "date": "1618256644",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pink Flag - Nancy Drew (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 5782064,
+        "date": "1618256645",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pink Flag - Roman Candle (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 13791088,
+        "date": "1618256651",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Plushgun - How We Roll (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27929571,
+        "date": "1618256648",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Poets of the Fall - Lift (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34951688,
+        "date": "1618256650",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Polar Bear Club - Living Saints (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 18388266,
+        "date": "1618256653",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pollyn - Gave It Up (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33162500,
+        "date": "1618256655",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Portugal. The Man - Do You (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 19051525,
+        "date": "1618256657",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Possible Oscar - Dead Again (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 36940757,
+        "date": "1618256659",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pretty & Nice - Piranha (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 32381617,
+        "date": "1618256661",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pretty & Nice - Tora Tora Tora (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20652966,
+        "date": "1618256670",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Primary - In My Head, Out My Head (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22497644,
+        "date": "1618256662",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Psychostick - Political Bum (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25099347,
+        "date": "1618256664",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Public Radio - Forgot Love (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26520376,
+        "date": "1618256666",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Pythia - Army of the Damned (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26668109,
+        "date": "1618256667",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Quartered - Africa (RB3 version) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27572924,
+        "date": "1618256668",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Quartered - Africa (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26020710,
+        "date": "1618256676",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Quiet Company - How Do You Do It (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 40373901,
+        "date": "1618256673",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Quiet Company - You, Me, & the Boatman (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 29149460,
+        "date": "1618256674",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Raging Meats - Splosion Man Theme Song (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 13695326,
+        "date": "1618256677",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rain Dogs - Dirt (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 19304533,
+        "date": "1618256678",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rain Dogs - Fallen (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 40447823,
+        "date": "1618256680",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rainbowdragoneyes - Creatures ov Deception (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20561480,
+        "date": "1618256683",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rainbowdragoneyes - Creatures ov Deception (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20556214,
+        "date": "1618256687",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rathergood.com - We Like the Moon (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 3936475,
+        "date": "1618256683",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Raven Quinn - Catalyst (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 24500282,
+        "date": "1618256685",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Raven Quinn - Decadence (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26111593,
+        "date": "1618256689",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rebelution - Bright Side of Life (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31906569,
+        "date": "1618256689",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Red Jacket Mine - The Pose (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 27733763,
+        "date": "1618256690",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Red9 - Last Mistake (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 30297604,
+        "date": "1618256693",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Red9 - Real Love (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25729667,
+        "date": "1618256694",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Reform the Resistance - Tonight We Ride (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31059631,
+        "date": "1618256695",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Reverend Horton Heat - Death Metal Guys (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25889370,
+        "date": "1618256697",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Reverend Horton Heat - Indigo Friends (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20049824,
+        "date": "1618256698",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Revocation - Chaos of Forms (2x Bass Pedal) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28937562,
+        "date": "1618256699",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Revocation - Chaos of Forms (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28937170,
+        "date": "1618256700",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rhune Kincaid - iPhone (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 14247067,
+        "date": "1618256702",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Richard Campbell - A Christmas Rock Medley (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26761571,
+        "date": "1618256704",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Richard Campbell - Rock the Halls (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 17767123,
+        "date": "1618256704",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Ricky Graham - Refraction (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 14178657,
+        "date": "1618256706",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Ride Your Bike - Coat Rack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22966997,
+        "date": "1618256708",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rise Against - Satellite (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23011195,
+        "date": "1618256717",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rishloo - Katsushika (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 39430326,
+        "date": "1618256710",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rishloo - River of Glass (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 38721278,
+        "date": "1618256758",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rishloo - Turning Sheep Into Goats-Systematomatic (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 57525775,
+        "date": "1618256721",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rival Sons - Torture (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26668765,
+        "date": "1618256719",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Riverboat Gamblers - Robots May Break Your Heart (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23242025,
+        "date": "1618256722",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rivethead - Difference (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 26172398,
+        "date": "1618256724",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rivethead - Stay Alive (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 32602488,
+        "date": "1618256726",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Robby Suave - Around the World (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22256267,
+        "date": "1618256727",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Robby Suave - Bean (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20137476,
+        "date": "1618256754",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Robby Suave - Electro-Heaven (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 32015897,
+        "date": "1618256763",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Robby Suave - Everyone I Know is an Alcoholic (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 21467137,
+        "date": "1618256752",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Robotmakers - Building a Robot (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31301638,
+        "date": "1618256758",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Robotmakers - Rocket Car (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35021884,
+        "date": "1618256759",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rockapella - Bang (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 18561164,
+        "date": "1618256762",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rod Kim - Tomorrow She's Mine (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 22974659,
+        "date": "1618256763",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rodrigo y Gabriela - Buster Voodoo (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 18142820,
+        "date": "1618256766",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rodrigo y Gabriela - Hanuman (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 14341083,
+        "date": "1618256767",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Roman Candle - Eden was a Garden (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 14317140,
+        "date": "1618256786",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Ron Wasserman - American Hero (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 16722153,
+        "date": "1618256768",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Ron Wasserman - Fight Back (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20414017,
+        "date": "1618256785",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Ronald Jenkees - Guitar Sound (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31658091,
+        "date": "1618256784",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rosaline - Model Ships (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 23301131,
+        "date": "1618256783",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Beautiful Machine (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 30354441,
+        "date": "1618256788",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Buried Cold (RB3 version) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 33520166,
+        "date": "1618256789",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Buried Cold (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 28152295,
+        "date": "1618256790",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Find Beauty (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 40552244,
+        "date": "1618256791",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Midnight Eyes (RB3 version) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 34326687,
+        "date": "1618256794",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Midnight Eyes (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 31716014,
+        "date": "1618256794",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Romancing the Ordinary (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 41153303,
+        "date": "1618256807",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Romancing the Ordinary (World) (Alt 1) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 41153789,
+        "date": "1618256804",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Signed With Love (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35844370,
+        "date": "1618256807",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Take Me Away (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 36120080,
+        "date": "1618256810",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rose of Jericho - Wrong Side of the Sky (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 30012852,
+        "date": "1618256809",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rotary Downs - Bullet on a String (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 42049682,
+        "date": "1618256812",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rotary Downs - Promised Land (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 36311345,
+        "date": "1618256830",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Rx Bandits - Bled To Be Free (The Operation) (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 40745042,
+        "date": "1618256831",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - SHIROCK - New Solution (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35384052,
+        "date": "1618256823",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - SIMPL3JACK - At War with the Cherubs (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 14590349,
+        "date": "1618256822",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - SIMPL3JACK - Carny Asada (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 20153691,
+        "date": "1618256828",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - SIMPL3JACK - O-Ren (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 21660084,
+        "date": "1618256829",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Sabrosa Purr - Fashion Kills (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 21682306,
+        "date": "1618256834",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Sadaharu - It's Not Paranoia If They're Shooting Live Bullets (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 35160908,
+        "date": "1618256836",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Safari So Good - Delaware Are You - I Don't Know Alaska (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_5",
+        "size": 25223642,
+        "date": "1618256835",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      }
+    ]
+  }
+}

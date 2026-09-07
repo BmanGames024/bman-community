@@ -2,12 +2,12 @@
   "format": "bman-community-index",
   "version": 1,
   "app_version": "1.34",
-  "shared": "2026-09-07 09:26:57",
+  "shared": "2026-09-07 09:29:33",
   "collection": {
     "name": "left4dead bundle",
     "description": "",
     "created": "2026-09-07 09:26:31",
-    "updated": "2026-09-07 09:26:36",
+    "updated": "2026-09-07 09:29:14",
     "games": [
       {
         "name": "Left 4 Dead GOTY [RF].zip",
@@ -26,6 +26,78 @@
         "source_type": "archive",
         "allow_iso_conversion": true,
         "content_source": false
+      },
+      {
+        "name": "Left 4 Dead - Crash Course Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 63526437,
+        "date": "1618174511",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left 4 Dead - Survival Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 78187152,
+        "date": "1618174513",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left 4 Dead - The Sacrifice (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 188695683,
+        "date": "1618174520",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left 4 Dead 2 - Cold Stream (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 899155535,
+        "date": "1618174537",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left 4 Dead 2 - The Passing (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 210170708,
+        "date": "1618174531",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left 4 Dead 2 - The Sacrifice (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 458186831,
+        "date": "1618174536",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left_4_Dead_2.rar",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 2467279504,
+        "date": "1618174609",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Left_4_Dead.rar",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 476186347,
+        "date": "1618174545",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
       }
     ]
   }

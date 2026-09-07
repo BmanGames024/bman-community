@@ -1,0 +1,50 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.34",
+  "shared": "2026-09-07 12:18:52",
+  "collection": {
+    "name": "Test",
+    "description": "test",
+    "created": "2026-09-06 22:16:05",
+    "updated": "2026-09-06 22:16:33",
+    "games": [
+      {
+        "name": "Conker.Live.&.Reloaded.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 3252788807,
+        "date": "1661220002",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Portal 2 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6569175396,
+        "date": "1617808548",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Portal Still Alive.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 679112014,
+        "date": "1618377471",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Portal_2.rar",
+        "archive_identifier": "XBOX_360_DLC_3",
+        "size": 1515629186,
+        "date": "1618226315",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.35",
+  "shared": "2026-09-07 13:29:46",
+  "collection": {
+    "name": "Rock Band 3 Part 12",
+    "description": "",
+    "created": "2026-09-06 23:40:38",
+    "updated": "2026-09-06 23:40:38",
+    "games": [
+      {
+        "name": "Rock Band Network - XTT - Fighting Back the Bullies (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 20583562,
+        "date": "1618261283",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Yesternight's Decision - Dying Wish of a Living Man (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 28117531,
+        "date": "1618261286",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Yogurt With Sprinkles - Version 2 (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 19525076,
+        "date": "1618261287",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - You Me and Iowa - Howling at Summer (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 25210905,
+        "date": "1618261287",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - You Shriek - Lilith in Libra (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 22142748,
+        "date": "1618261288",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - You Shriek - No Heroes (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 30117967,
+        "date": "1618261291",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Your Heart - Spring (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 24331192,
+        "date": "1618261295",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Your Horrible Smile - Shot at the Title (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 22911161,
+        "date": "1618261292",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zack Wilson - Another California Song (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 21056141,
+        "date": "1618261295",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zack Wilson - Moonshine Hollar (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 13002831,
+        "date": "1618261296",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zack Wilson - Ox (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 25828393,
+        "date": "1618261298",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zack Wilson - Rearview Mirror (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 26655201,
+        "date": "1618261300",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zakk Tremblay - Platanos Con Sangre (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 15134684,
+        "date": "1618261301",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zef - Gambit (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 28286600,
+        "date": "1618261301",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zigaboo Modeliste - Standing in Your Stuff (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 51161522,
+        "date": "1618261303",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zing Experience - Faster Than a Bullet (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 6863400,
+        "date": "1618261306",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock Band Network - Zoo Seven - Painted (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 36197864,
+        "date": "1618261308",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock_Band_2_DLC_TTrls.rar",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 8478938965,
+        "date": "1618261711",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rock_Band_3_DLC_TTrls.rar",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 15359040559,
+        "date": "1618262526",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "ACDC Live Rock Band Track Pack [NTSCU].rar",
+        "archive_identifier": "XBOX_360_1_OTHER",
+        "size": 7163920010,
+        "date": "1618137062",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      }
+    ]
+  }
+}

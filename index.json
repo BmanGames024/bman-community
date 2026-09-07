@@ -1,18 +1,8 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-07 12:34:33",
+  "updated": "2026-09-07 12:34:43",
   "collections": [
-    {
-      "id": "left4dead-bundle-6ec6f813",
-      "name": "left4dead bundle",
-      "description": "",
-      "games": 10,
-      "size": 18085526561,
-      "shared": "2026-09-07 12:34:31",
-      "updated": "2026-09-07 12:34:31",
-      "app_version": "1.34"
-    },
     {
       "id": "valve-games-5f117d44",
       "name": "Valve Games",

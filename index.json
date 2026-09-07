@@ -1,6 +1,17 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-07 12:19:34",
-  "collections": []
+  "updated": "2026-09-07 09:26:59",
+  "collections": [
+    {
+      "id": "left4dead-bundle-76985394",
+      "name": "left4dead bundle",
+      "description": "",
+      "games": 2,
+      "size": 13244138364,
+      "shared": "2026-09-07 09:26:57",
+      "updated": "2026-09-07 09:26:57",
+      "app_version": "1.34"
+    }
+  ]
 }

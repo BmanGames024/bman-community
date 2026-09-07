@@ -1,0 +1,17 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "updated": "2026-09-07 12:18:53",
+  "collections": [
+    {
+      "id": "test-a9a29dbf",
+      "name": "Test",
+      "description": "test",
+      "games": 4,
+      "size": 12016705403,
+      "shared": "2026-09-07 12:18:52",
+      "updated": "2026-09-07 12:18:52",
+      "app_version": "1.34"
+    }
+  ]
+}

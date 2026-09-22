@@ -1,0 +1,77 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.37",
+  "shared": "2026-09-22 20:01:18",
+  "collection": {
+    "name": "rainbow six vegas 1 and 2",
+    "description": "",
+    "created": "2026-09-22 19:59:31",
+    "updated": "2026-09-22 20:01:09",
+    "games": [
+      {
+        "name": "Rainbow Six Vegas [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6272997654,
+        "date": "1617835911",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Rainbow Six Vegas 2 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 5920924120,
+        "date": "1617835799",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Tom Clancy's Rainbow Six - Vegas - 2 Gift Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 231327598,
+        "date": "1618263220",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Tom Clancy's Rainbow Six - Vegas - Black Edition (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 566482685,
+        "date": "1618263240",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Tom Clancy's Rainbow Six - Vegas - Red Edition (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 540780430,
+        "date": "1618263249",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Tom_Clancys_Rainbow_Six_Vegas.rar",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 1502584664,
+        "date": "1618263311",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Tom_Clancys_Rainbow_Six_Vegas_2.rar",
+        "archive_identifier": "XBOX_360_DLC_6",
+        "size": 422882018,
+        "date": "1618263285",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      }
+    ]
+  }
+}

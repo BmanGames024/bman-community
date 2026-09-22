@@ -1,8 +1,18 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-07 13:29:47",
+  "updated": "2026-09-22 20:01:20",
   "collections": [
+    {
+      "id": "rainbow-six-vegas-1-and-2-ffe49cbf",
+      "name": "rainbow six vegas 1 and 2",
+      "description": "",
+      "games": 7,
+      "size": 15457979169,
+      "shared": "2026-09-22 20:01:18",
+      "updated": "2026-09-22 20:01:18",
+      "app_version": "1.37"
+    },
     {
       "id": "rock-band-3-part-12-37f25f6b",
       "name": "Rock Band 3 Part 12",

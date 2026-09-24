@@ -1,13 +1,13 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "app_version": "1.37",
-  "shared": "2026-09-22 20:01:18",
+  "app_version": "1.38",
+  "shared": "2026-09-24 21:18:29",
   "collection": {
     "name": "rainbow six vegas 1 and 2",
     "description": "",
     "created": "2026-09-22 19:59:31",
-    "updated": "2026-09-22 20:01:09",
+    "updated": "2026-09-24 21:18:26",
     "games": [
       {
         "name": "Rainbow Six Vegas [RF].zip",
@@ -50,24 +50,6 @@
         "archive_identifier": "XBOX_360_DLC_6",
         "size": 540780430,
         "date": "1618263249",
-        "source_type": "archive",
-        "allow_iso_conversion": false,
-        "content_source": true
-      },
-      {
-        "name": "Tom_Clancys_Rainbow_Six_Vegas.rar",
-        "archive_identifier": "XBOX_360_DLC_6",
-        "size": 1502584664,
-        "date": "1618263311",
-        "source_type": "archive",
-        "allow_iso_conversion": false,
-        "content_source": true
-      },
-      {
-        "name": "Tom_Clancys_Rainbow_Six_Vegas_2.rar",
-        "archive_identifier": "XBOX_360_DLC_6",
-        "size": 422882018,
-        "date": "1618263285",
         "source_type": "archive",
         "allow_iso_conversion": false,
         "content_source": true

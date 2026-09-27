@@ -1,16 +1,16 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-26 16:22:41",
+  "updated": "2026-09-27 13:17:12",
   "collections": [
     {
       "id": "rainbow-six-vegas-1-and-2-ffe49cbf",
       "name": "rainbow six vegas 1 and 2",
       "description": "",
-      "games": 5,
-      "size": 13532512487,
+      "games": 4,
+      "size": 14119388456,
       "shared": "2026-09-22 20:01:18",
-      "updated": "2026-09-24 21:18:29",
+      "updated": "2026-09-27 13:17:11",
       "app_version": "1.38"
     },
     {

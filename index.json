@@ -1,8 +1,18 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-09-27 13:17:12",
+  "updated": "2026-09-28 09:37:43",
   "collections": [
+    {
+      "id": "bioshock-collection-259b028d",
+      "name": "Bioshock collection",
+      "description": "Download me, Would you kindly?",
+      "games": 6,
+      "size": 46315745113,
+      "shared": "2026-09-28 09:37:41",
+      "updated": "2026-09-28 09:37:41",
+      "app_version": "1.39"
+    },
     {
       "id": "rainbow-six-vegas-1-and-2-ffe49cbf",
       "name": "rainbow six vegas 1 and 2",

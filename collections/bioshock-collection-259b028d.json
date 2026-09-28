@@ -1,0 +1,68 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.39",
+  "shared": "2026-09-28 09:37:41",
+  "collection": {
+    "name": "Bioshock collection",
+    "description": "Download me, Would you kindly?",
+    "created": "2026-09-28 09:36:53",
+    "updated": "2026-09-28 09:37:26",
+    "games": [
+      {
+        "name": "Bioshock GOTY [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7047556037,
+        "date": "1617334274",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock GOTY [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7279086243,
+        "date": "1617334337",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock 2 GOTY [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6915532621,
+        "date": "1617334161",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock 2 GOTY [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7073182140,
+        "date": "1617334202",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock Infinite Complete Edition [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000194036,
+        "date": "1617334916",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock Infinite Complete Edition [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000194036,
+        "date": "1617334627",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      }
+    ]
+  }
+}

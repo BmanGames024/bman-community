@@ -1,1 +1,1 @@
-# bman-community
+used for collections in BmanDwonloader ignore

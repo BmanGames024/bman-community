@@ -1,8 +1,18 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-10-06 22:51:05",
+  "updated": "2026-10-06 22:51:33",
   "collections": [
+    {
+      "id": "rock-band-3-50e86e7b",
+      "name": "Rock Band 3",
+      "description": "",
+      "games": 2224,
+      "size": 152077646360,
+      "shared": "2026-10-06 22:51:31",
+      "updated": "2026-10-06 22:51:31",
+      "app_version": "1.51"
+    },
     {
       "id": "bioshock-collection-259b028d",
       "name": "Bioshock collection",

@@ -1,7 +1,7 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-10-10 16:12:38",
+  "updated": "2026-10-10 17:12:04",
   "collections": [
     {
       "id": "games-cc37ce9e",
@@ -10,8 +10,8 @@
       "games": 56,
       "size": 387655682145,
       "shared": "2026-10-10 16:12:35",
-      "updated": "2026-10-10 16:12:35",
-      "app_version": "1.60"
+      "updated": "2026-10-10 17:12:02",
+      "app_version": "1.61"
     },
     {
       "id": "rock-band-3-50e86e7b",

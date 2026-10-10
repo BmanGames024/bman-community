@@ -1,0 +1,518 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.60",
+  "shared": "2026-10-10 16:12:35",
+  "collection": {
+    "name": "Games",
+    "description": "",
+    "created": "2026-10-10 00:18:43",
+    "updated": "2026-10-10 16:12:23",
+    "games": [
+      {
+        "name": "Fallout New Vegas Ultimate [PAL][NTSCU][DVD1][ENG].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7076779700,
+        "date": "1617562865",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "South Park The Stick of Truth [NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7331496479,
+        "date": "1617890044",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Family Guy Back To The Multiverse [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 9000194012,
+        "date": "1617563181",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Borderlands GOTY [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6782921382,
+        "date": "1617386423",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Elder Scrolls V Skyrim [PAL][NTSCU][ENG].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8365620775,
+        "date": "1617916877",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock 2 GOTY [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6915532621,
+        "date": "1617334161",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock GOTY [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7047556037,
+        "date": "1617334274",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bioshock Infinite Complete Edition [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000194036,
+        "date": "1617334916",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto 4 Episodes from Liberty City [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8073122974,
+        "date": "1617586289",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto 4 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6801685647,
+        "date": "1617586411",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto 5 [RF][DVD1].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8616763628,
+        "date": "1617586686",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto 5 [RF][DVD2].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7742697023,
+        "date": "1617586745",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto IV Complete Edition [NTSCJ][DVD1].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6808558085,
+        "date": "1617586833",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto IV Complete Edition [NTSCJ][DVD2].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6885406934,
+        "date": "1617586889",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto San Andreas [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6941999584,
+        "date": "1617586989",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo Spartan Assault.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2411635184,
+        "date": "1618355823",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Halo.1.Combat.Evolved.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 3604958356,
+        "date": "1661640836",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Halo 3 ODST [RF][DVD1][ENG].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6921431490,
+        "date": "1617588515",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo 3 ODST [RF][DVD2][ENG,SPA,MEX].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8069824407,
+        "date": "1617588808",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo 3 [RF][ENG].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6619035549,
+        "date": "1617588778",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo 4 [PAL][PL][DVD1].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8001131509,
+        "date": "1617589275",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo 4 [PAL][PL][DVD2].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7696968912,
+        "date": "1617589197",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo Combat Evolved Anniversary [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 9000194006,
+        "date": "1617610998",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo Reach [RF][ENG].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6376258638,
+        "date": "1617629859",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Halo Wars [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8069824375,
+        "date": "1617629848",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fez.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 295262728,
+        "date": "1618354454",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Forza 2 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7017654102,
+        "date": "1617582241",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza 3 Ultimate Collection [PAL][DVD1].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8073122983,
+        "date": "1617582558",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza 3 Ultimate Collection [PAL][DVD2].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8073122983,
+        "date": "1617582540",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza 4 [NTSCU][DVD1].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8294957687,
+        "date": "1617582974",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza 4 [NTSCU][DVD2].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8584896396,
+        "date": "1617583048",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza 4 [PAL][DVD1].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 9000193958,
+        "date": "1617583098",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza 4 [PAL][DVD2].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 9000193958,
+        "date": "1617583255",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza Horizon 2 [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8438823691,
+        "date": "1617583399",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza Horizon [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 9000193947,
+        "date": "1617583283",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza Motorsport 4 [NTSCJ][DVD1].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8294958099,
+        "date": "1617583856",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Forza Motorsport 4 [NTSCJ][DVD2].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8584892613,
+        "date": "1617583681",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Rayman 3 HD.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2157694820,
+        "date": "1618377663",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Rayman Legends [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8089601036,
+        "date": "1617836677",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Rayman Origins [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7976348231,
+        "date": "1617836896",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Rayman Raving Rabbids [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6797821228,
+        "date": "1617836768",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Castlevania Lord of Shadow Mirror of Fate HD.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2090017023,
+        "date": "1618353673",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Shadow Complex.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 902169088,
+        "date": "1618378102",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Spider-Man Web of Shadows [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6968131796,
+        "date": "1617891098",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Walking Dead Episode 1-5   TU (ENG).rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2732571043,
+        "date": "1618378934",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "The Walking Dead GOTY [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7233609587,
+        "date": "1617968462",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Walking Dead Season Two [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7190331636,
+        "date": "1617968498",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Walking Dead Survival Instinct [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6477553028,
+        "date": "1617968600",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Limbo.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 126729507,
+        "date": "1618356563",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Mirrors Edge [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6256438047,
+        "date": "1617734477",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dark Souls II Scholar of the First Sin [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6961706729,
+        "date": "1617455563",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dark Souls II Scholar of the First Sin [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7291548684,
+        "date": "1617456333",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dark Souls Prepare to Die Edition [PAL].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000194015,
+        "date": "1617456431",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dark Souls [NTSCU][NTSCJ].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8582764153,
+        "date": "1617456136",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Batman Arkam City GOTY [RF] [DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000194003,
+        "date": "1617330373",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Batman Arkam City GOTY [RF] [DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000194003,
+        "date": "1617330636",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      }
+    ]
+  }
+}

@@ -1,13 +1,13 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "app_version": "1.60",
-  "shared": "2026-10-10 16:12:35",
+  "app_version": "1.61",
+  "shared": "2026-10-10 17:12:02",
   "collection": {
     "name": "Games",
     "description": "",
     "created": "2026-10-10 00:18:43",
-    "updated": "2026-10-10 16:12:23",
+    "updated": "2026-10-10 16:12:39",
     "games": [
       {
         "name": "Fallout New Vegas Ultimate [PAL][NTSCU][DVD1][ENG].zip",

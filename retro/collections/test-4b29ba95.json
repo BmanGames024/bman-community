@@ -1,0 +1,22 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "2.0",
+  "shared": "2026-10-14 19:55:24",
+  "collection": {
+    "name": "test",
+    "description": "",
+    "created": "2026-10-14 19:55:21",
+    "updated": "2026-10-14 19:55:21",
+    "games": [
+      {
+        "name": "mnt/user/ROMS/Nintendo/N64/Banjo-Kazooie (Europe) (En,Fr,De).zip",
+        "archive_identifier": "No-Intro_N64_Collection",
+        "size": 16489320,
+        "date": "1779354533",
+        "source_type": "archive",
+        "console": "N64"
+      }
+    ]
+  }
+}

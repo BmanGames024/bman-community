@@ -1,0 +1,2822 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.67",
+  "shared": "2026-10-25 19:25:15",
+  "collection": {
+    "name": "2TB USB",
+    "description": "",
+    "created": "2026-10-25 18:26:15",
+    "updated": "2026-10-25 19:25:04",
+    "games": [
+      {
+        "name": "James Bond 007 GoldenEye Reloaded [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 9000194012,
+        "date": "1617635671",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Ace_Combat_6.rar",
+        "archive_identifier": "XBOX_360_DLC_1",
+        "size": 182108935,
+        "date": "1618157700",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Alice_Madness_Returns.rar",
+        "archive_identifier": "XBOX_360_DLC_1",
+        "size": 1038710454,
+        "date": "1618157803",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Alice Madness Returns [RF].rar",
+        "archive_identifier": "XBOX_360_1_OTHER",
+        "size": 7199782380,
+        "date": "1618140816",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Alone in the Dark [RF].rar",
+        "archive_identifier": "XBOX_360_1_OTHER",
+        "size": 5984161554,
+        "date": "1618141964",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Anarchy Reigns [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000193955,
+        "date": "1617327610",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Avatar The Game [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8073122923,
+        "date": "1617328455",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Batman Arkham Origins Blackgate - Deluxe Edition.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2927566596,
+        "date": "1618353319",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Binary Domain [PAL][NTSCU].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000213504,
+        "date": "1617333991",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bulletstorm [RF].ISO.rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7303506587,
+        "date": "1617389630",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Call of Juarez [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7290912444,
+        "date": "1617398109",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Call of Juarez the Cartel [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7103534513,
+        "date": "1617398359",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Call of Juarez Bound in Blood [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7178844453,
+        "date": "1617398093",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Call Of Juarez Gunslinger.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2105811635,
+        "date": "1618353594",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Condemned 2 Bloodshot [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7286355643,
+        "date": "1617449905",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Crackdown 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7045508010,
+        "date": "1617450331",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Crackdown [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8069824377,
+        "date": "1617450547",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Crysis 3 [PAL].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000193940,
+        "date": "1617452672",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dark Sector [PAL].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7034544137,
+        "date": "1617455479",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "DarkSiders 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000193949,
+        "date": "1617457332",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "DarkSiders [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8073122911,
+        "date": "1617456749",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dead Rising 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6381243818,
+        "date": "1617457734",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dead Rising [NTSCU][NTSCJ].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7155569941,
+        "date": "1617458181",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dead Rising 2 of The Record [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8073122959,
+        "date": "1617457936",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dead to Rights Retribution [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7243447020,
+        "date": "1617459926",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dishonored [NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8480382153,
+        "date": "1617528236",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Enslaved Odyssey to the West [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7292918432,
+        "date": "1617537701",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F.E.A.R [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8069205582,
+        "date": "1617538911",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F.E.A.R 2 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8069824375,
+        "date": "1617554632",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F.E.A.R. 3 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8073122911,
+        "date": "1617554593",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fracture [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8069824372,
+        "date": "1617583710",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Frontlines Fuel Of War [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6569639440,
+        "date": "1617583970",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Ghost Recond Advanced Warfighter [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8069205657,
+        "date": "1617585750",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Ghost Recon Future Soldier [PAL][NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 9000194015,
+        "date": "1617585841",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Max.Payne.1.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1140138755,
+        "date": "1661836883",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Max Payne 3 [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_4",
+        "size": 9000193967,
+        "date": "1617728429",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Max Payne 3 [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_4",
+        "size": 9000193967,
+        "date": "1617729019",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Homefront [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7013391754,
+        "date": "1617632722",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "James Bond 007 Blood Stone [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8073122959,
+        "date": "1617635935",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Kane & Lynch Dead Men [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6871422856,
+        "date": "1617638980",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Kane & Lynch 2 Dog Days [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6980150338,
+        "date": "1617639457",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lost Planet Extreme Condition Colonies Edition [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7253794364,
+        "date": "1617658787",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lost Planet 3 [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8464103955,
+        "date": "1617658688",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lost Planet 2 [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7251283124,
+        "date": "1617658663",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Medal of Honor Airbone [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7007656701,
+        "date": "1617729583",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Medal of Honor Warfighter [PAL][PL][DVD1].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 8580789521,
+        "date": "1617730146",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Medal of Honor Warfighter [PAL][PL][DVD2].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 8459282331,
+        "date": "1617729986",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Medal of Honor [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7214691943,
+        "date": "1617730000",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Mercenaries.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1632222811,
+        "date": "1661862455",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Mercenaries 2 World in Flames [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6997709663,
+        "date": "1617730625",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Metro 2033 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6688667970,
+        "date": "1617731931",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Metro Last Light [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 8076619828,
+        "date": "1617731980",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Ninja Blade [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6450885969,
+        "date": "1617804479",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Operation Flashpoint Dragon Rising [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6882732989,
+        "date": "1617805380",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Operation Flashpoint Red River [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7070725046,
+        "date": "1617805634",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Perfect Dark Zero [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6940131969,
+        "date": "1617806443",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Perfect Dark.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 258211139,
+        "date": "1618377377",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Prey [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 5107533139,
+        "date": "1617808832",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Quake 4 [RF][DVD1].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 5124721547,
+        "date": "1617834410",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Quake Arena Arcade.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 393008768,
+        "date": "1618377529",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Red Faction Armageddon [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7189702310,
+        "date": "1617837151",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resident Evil Operation Raccoon City [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6991060356,
+        "date": "1617837976",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resident Evil  6 [RF][DVD1].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8411365307,
+        "date": "1617837561",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resident Evil  6 [RF][DVD2].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7174262362,
+        "date": "1617837495",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resident Evil 4 HD [PAL].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7311858031,
+        "date": "1617837709",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resident Evil 5 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7214065021,
+        "date": "1617837851",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resident Evil Revelations [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8410262321,
+        "date": "1617838295",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Section 8 [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7290243684,
+        "date": "1617884836",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Section 8 Prejudice.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 1973029796,
+        "date": "1618378059",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Singularity [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6967751525,
+        "date": "1617886876",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Spec Ops The Line [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8532497639,
+        "date": "1617890397",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Stranglehold [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6801011199,
+        "date": "1617911769",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Bourne Conspiracy [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6849999853,
+        "date": "1617915088",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Darkness [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6585787031,
+        "date": "1617915875",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Saboteur [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6744896144,
+        "date": "1617967320",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Tom Clancys EndWar [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6981470319,
+        "date": "1617970745",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Tom Clancys H.A.W.X. [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6471192182,
+        "date": "1617970999",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Tom Clancys H.A.W.X. 2 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7135684919,
+        "date": "1617970815",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Tom.Clancys.Splinter.Cell.Chaos.Theory.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcxpt2-xbox-ztm",
+        "size": 4773971059,
+        "date": "1662620934",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Tom.Clancys.Splinter.Cell.Double.Agent.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcxpt2-xbox-ztm",
+        "size": 3304070052,
+        "date": "1662622160",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Tom.Clancys.Splinter.Cell.Pandora.Tomorrow.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcxpt2-xbox-ztm",
+        "size": 2600682600,
+        "date": "1662623283",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Tom.Clancys.Splinter.Cell.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcxpt2-xbox-ztm",
+        "size": 2653967581,
+        "date": "1662624321",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Transformer the Game [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6746235007,
+        "date": "1617972782",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Transformers Dark of the Moon [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6712716524,
+        "date": "1617972714",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Transformers War for Cybertron [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6690274575,
+        "date": "1617974044",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Transformers Fall Of Cybertron [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 8439129180,
+        "date": "1617973107",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Turok [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6314940286,
+        "date": "1617974598",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Vanquish [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6542384893,
+        "date": "1617976910",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WET [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6967086151,
+        "date": "1617997870",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Wolfenstein [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7307050963,
+        "date": "1618002042",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "X-Men Origins Wolverine [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7002731830,
+        "date": "1618002956",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Amazing Spider-Man [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8186548102,
+        "date": "1617914833",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Amazing Spider-Man 2 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8175438344,
+        "date": "1617914823",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Prototype [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7155712826,
+        "date": "1617834257",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Prototype 2 [RF][ENG].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8052139771,
+        "date": "1617834094",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Incredible Hulk [PAL].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 5940909106,
+        "date": "1617917998",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Iron Man [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8069824377,
+        "date": "1617635388",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Iron Man 2 [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8073122911,
+        "date": "1617635143",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Thor God of Thunder [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6967003172,
+        "date": "1617969307",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Captain America Super Soldier [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7225406797,
+        "date": "1617398512",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Green Lantern Rise of the Manhunters [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7323531287,
+        "date": "1617587254",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dragon Age 2 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8073122917,
+        "date": "1617530668",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dragons Dogma Dark Erisen [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6705496067,
+        "date": "1617533646",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dragons Dogma Dark Erisen [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6800147610,
+        "date": "1617533497",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dungeon Siege 3 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6363916192,
+        "date": "1617534784",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Eternal Sonata [NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6316739957,
+        "date": "1617538226",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fable Anniversary [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7971893176,
+        "date": "1617562194",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Infinite Undiscovery [NTSCU][DVD1].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6663769483,
+        "date": "1617634395",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Infinite Undiscovery [NTSCU][DVD2].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6644069283,
+        "date": "1617634613",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Magna Carta 2 [NTSCU][DVD1].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7252391491,
+        "date": "1617660588",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Magna Carta 2 [NTSCU][DVD2].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7251000692,
+        "date": "1617660643",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Nier [PAL][NTSCU][ENG].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6250459547,
+        "date": "1617804316",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Resonance of Fate [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7357757155,
+        "date": "1617838061",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Risen [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7168031987,
+        "date": "1617839216",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Risen 2 Dark Waters [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7033197133,
+        "date": "1617839037",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Risen 3 Titan Lords [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6749336606,
+        "date": "1617839351",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Sacred 2 Fallen Angel [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7129389912,
+        "date": "1617882560",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Sacred 3 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8411187059,
+        "date": "1617882506",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Tales Of Vesperia [PAL].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6716240924,
+        "date": "1617913220",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Two Worlds [NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7219647907,
+        "date": "1617975454",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Two Worlds 2 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7193433752,
+        "date": "1617975022",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Venetica [NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7328657761,
+        "date": "1617996548",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Last Remnant [NTSCU][NTSCJ][DVD1].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 5800436763,
+        "date": "1617918271",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Last Remnant [NTSCU][NTSCJ][DVD2].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 5807314446,
+        "date": "1617918210",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Enchanted Arms [PAL][NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6268833577,
+        "date": "1617536978",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Phantasy Star Universe [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6783443859,
+        "date": "1617806797",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Warriors Orochi 3 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 8431943621,
+        "date": "1618000247",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Warriors Orochi 1 [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 5460107274,
+        "date": "1618000158",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dynasty Warriors 6 [NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6519075409,
+        "date": "1617534906",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dynasty Warriors 7 [NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6955973697,
+        "date": "1617535299",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dynasty Warriors 8 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8046729843,
+        "date": "1617535335",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dynasty Warriors Gundam 2 [NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 5133556939,
+        "date": "1617535714",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dynasty Warriors Gundam 3 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 5697980790,
+        "date": "1617535690",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dynasty Warriors Gundam [NTSCU].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 5757825960,
+        "date": "1617535755",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Samurai.Warriors.1.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcxpt2-xbox-ztm",
+        "size": 2553287920,
+        "date": "1662452029",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Fist of The North Star Kens Rage [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 5991043220,
+        "date": "1617582016",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fist of The North Star Kens Rage 2 [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6236513124,
+        "date": "1617582034",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Record of Agarest War [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6888747888,
+        "date": "1617836938",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Record of Agarest War Zero [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6765077045,
+        "date": "1617837133",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Cursed Crusade [NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7069405745,
+        "date": "1617915680",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Warriors Legend of Troy [PAL].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7323596623,
+        "date": "1618000137",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Blur [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6932269915,
+        "date": "1617385411",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Cars 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7174174392,
+        "date": "1617399344",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Colin.McRae.Rally.03.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1481979362,
+        "date": "1661155729",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Colin.McRae.Rally.04.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1113318240,
+        "date": "1661136439",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Colin.McRae.Rally.05.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1511544514,
+        "date": "1661159955",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "DiRT Showdown [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8055941805,
+        "date": "1617527370",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "DiRT [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6374182186,
+        "date": "1617527594",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "DiRT 2 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 5536118455,
+        "date": "1617527044",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "DiRT 3 Complete Edition [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7794238493,
+        "date": "1617527538",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1 2010 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6343462799,
+        "date": "1617554869",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1 2011 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6429568429,
+        "date": "1617554895",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1 2012 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8149343928,
+        "date": "1617555319",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1 2013 Complete Edition [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7966090728,
+        "date": "1617555296",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1 2014 [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8164622945,
+        "date": "1617555308",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1 Race Stars [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7369496436,
+        "date": "1617555535",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "F1.2001.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 554065811,
+        "date": "1661453126",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "F1.2002.EUR.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 410547717,
+        "date": "1661452633",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "F1.Career.Challenge.EUR.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 976228329,
+        "date": "1661458309",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "FlatOut Ultimate Carnage  [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6386513666,
+        "date": "1617581999",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "FlatOut.1.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1157759566,
+        "date": "1661465776",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "FlatOut.2.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2116248635,
+        "date": "1661500663",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Fuel [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6966380746,
+        "date": "1617583952",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "GRID [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6413435976,
+        "date": "1617584377",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "GRID 2 [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8516042962,
+        "date": "1617584331",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "GRID Autosport [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8387015935,
+        "date": "1617584450",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Import Tuner Challenge [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6674924347,
+        "date": "1617634222",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Juiced 2 Hot Imports Nights [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 5158770288,
+        "date": "1617636360",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Juiced.1.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1827948214,
+        "date": "1661677475",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "L.A.Rush.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2922960831,
+        "date": "1661755535",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 06 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 4777384246,
+        "date": "1617737199",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 07 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 6956763437,
+        "date": "1617738506",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 08 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7299819187,
+        "date": "1617738730",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 09-10 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7356783137,
+        "date": "1617738701",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 10-11 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7352062064,
+        "date": "1617738843",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 13 [PAL].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7378381166,
+        "date": "1617738939",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 14 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7383949861,
+        "date": "1617739112",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP 15 [PAL][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7380912554,
+        "date": "1617739283",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP.1.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1953817009,
+        "date": "1661913263",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP.2.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2764913284,
+        "date": "1661916441",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "MotoGP.3.Ultimate.Racing.Technology.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1472390049,
+        "date": "1661917982",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "MX.vs.ATV.Unleashed.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1189073448,
+        "date": "1661936230",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "MX.World.Tour.Feat.Jamie.Little.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 318476257,
+        "date": "1661936651",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR 08 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7212495418,
+        "date": "1617740601",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR 09 [PAL].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7225005409,
+        "date": "1617740647",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR The Game 2011 [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7014796992,
+        "date": "1617740986",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR The Game Inside Line [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7130717673,
+        "date": "1617740894",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR 14 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7129610399,
+        "date": "1617741148",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR 15 [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7189335639,
+        "date": "1617740857",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.05.Chase.For.The.Cup.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2482841543,
+        "date": "1661977082",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.06.Total.Team.Control.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2773330019,
+        "date": "1661978900",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.07.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1845210847,
+        "date": "1661980113",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.Heat.2002.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2758177480,
+        "date": "1661981917",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.Thunder.2002.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 328505842,
+        "date": "1661982124",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.Thunder.2003.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1393659156,
+        "date": "1661982926",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "NASCAR.Thunder.2004.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 2872642264,
+        "date": "1661984939",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Need For Speed Shift 2 Unleashed [RF].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7270454344,
+        "date": "1617801925",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Need for Speed Shift [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 7113064776,
+        "date": "1617803083",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Need for Speed The Run [NTSCU].zip",
+        "archive_identifier": "XBOX_360_4",
+        "size": 8603516219,
+        "date": "1617803076",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Need.For.Speed.Hot.Pursuit.2.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 521035868,
+        "date": "1662129004",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Project.Gotham.Racing.1.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 1750969348,
+        "date": "1662234162",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Project.Gotham.Racing.2.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 4524456950,
+        "date": "1662236589",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Project Gotham Racing 3 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7131959785,
+        "date": "1617834061",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Project Gotham Racing 4 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7129964828,
+        "date": "1617833901",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Race Pro [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7298853903,
+        "date": "1617835052",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Ridge Racer 6 [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6234754857,
+        "date": "1617838325",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Ridge Racer Unbounded [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8667137910,
+        "date": "1617838593",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "SBK 2011 Superbike World Championship [PAL][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7377733477,
+        "date": "1617882217",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Sega Rally Revo [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6276263832,
+        "date": "1617885412",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Sonic & All-Stars Racing Transformed [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 5263964881,
+        "date": "1617888977",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Split Second [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6964502828,
+        "date": "1617909541",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Test Drive Unlimited [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7270486293,
+        "date": "1617914544",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Test Drive Unlimited 2 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7367618326,
+        "date": "1617914337",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Alan Wake [RF].rar",
+        "archive_identifier": "XBOX_360_1_OTHER",
+        "size": 6531506130,
+        "date": "1618140501",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Army Of Two [PAL].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8069824386,
+        "date": "1617327502",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Army of Two the 40th Day [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8073122953,
+        "date": "1617327706",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Army of Two the Devil Cartel [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000193997,
+        "date": "1617327632",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Asuras Wrath [RF].rar",
+        "archive_identifier": "XBOX_360_1_OTHER",
+        "size": 8437403163,
+        "date": "1618144836",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Bionic Comando [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6358216265,
+        "date": "1617334002",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Blue Dragon [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6977869385,
+        "date": "1617336695",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Blue Dragon [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7016840514,
+        "date": "1617336683",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Blue Dragon [RF][DVD3].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6971805205,
+        "date": "1617336795",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Castlevania Lords of Shadow [RF][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7329966538,
+        "date": "1617400472",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Castlevania Lords of Shadow [RF][DVD2].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7312187126,
+        "date": "1617400642",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Castlevania Lords of Shadow 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7331911214,
+        "date": "1617400439",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Child of Eden [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6115646485,
+        "date": "1617401227",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Clive Barkers Jericho [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7064865389,
+        "date": "1617401636",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Dark Messiah of Might & Magic Elements [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 5948889016,
+        "date": "1617455174",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Deadpool [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8401386139,
+        "date": "1617460911",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Devil May Cry 4 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7063250546,
+        "date": "1617463019",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Devil May Cry 5 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000193970,
+        "date": "1617463157",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Devil May Cry HD Colletion [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 9000193991,
+        "date": "1617463188",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fable 2 GOTY [RF][En,Pl,Hu,Kr,Cz,Sk,Ch].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6667123666,
+        "date": "1617560695",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fable 3 [RF][En,Pl,Hu,Ko,Ru,Cz,Sk,Ch].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6825293014,
+        "date": "1617561279",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Fight Night Round 3 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6824930760,
+        "date": "1617564770",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Golden Axe Beast Rider [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6945343316,
+        "date": "1617586207",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Gun [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 7192359797,
+        "date": "1617588289",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lollipop Chainsaw [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8592293396,
+        "date": "1617658093",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Remember Me [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8460456445,
+        "date": "1617837743",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Shaun White Skateboarding 2008 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6921441454,
+        "date": "1617885626",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Shaun White Skateboarding 2010 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6629774614,
+        "date": "1617885631",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Shaun White Snowboarding [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6921441344,
+        "date": "1617885679",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The Bigs 2 [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6946570498,
+        "date": "1617915050",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Top Spin 3 [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7210757968,
+        "date": "1617972231",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Top Spin 4 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7116547832,
+        "date": "1617972279",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Top Spin 2 [NTSCU].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 7087487651,
+        "date": "1617971958",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE SmackDown vs. Raw 2007 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6493828112,
+        "date": "1617999425",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE SmackDown vs. Raw 2008 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6177891556,
+        "date": "1617999465",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE SmackDown vs. Raw 2009 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6247855101,
+        "date": "1617999575",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE SmackDown vs. Raw 2010 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6742717215,
+        "date": "1617999732",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE SmackDown vs. Raw 2011 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6884779062,
+        "date": "1617999690",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE 12 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6966250275,
+        "date": "1617998581",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE 13 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 8332642894,
+        "date": "1617998761",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE 2K14 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 8499681753,
+        "date": "1617998933",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "WWE 2K15 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 8529851085,
+        "date": "1617998938",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "UFC Undisputed 2009 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6938811390,
+        "date": "1617975686",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "UFC Undisputed 2010 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6776464802,
+        "date": "1617975942",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "UFC Undisputed 3 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6059688575,
+        "date": "1617975940",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Brave The Video Game [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8073122891,
+        "date": "1617387284",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Burnout CRASH!.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 1160134567,
+        "date": "1618353549",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Crash of The Titans [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 6472240503,
+        "date": "1617451504",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "De Blob 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 7076585540,
+        "date": "1617457256",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "DuckTales Remastered.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 702993187,
+        "date": "1618354329",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Giana Sisters Twisted Dreams.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 1824923000,
+        "date": "1618375131",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Lego Batman [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6263950010,
+        "date": "1617655813",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Batman 2 DC Super Heroes [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 9000193997,
+        "date": "1617655737",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Batman 3 Beyond Gotham [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8157961296,
+        "date": "1617655749",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Harry Potter Years 1-4 [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6934762709,
+        "date": "1617655944",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Harry Potter Years 5-7 [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 9000193994,
+        "date": "1617656414",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Indiana Jones [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6606021750,
+        "date": "1617656194",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Indiana Jones 2 [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6715123741,
+        "date": "1617656280",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "LEGO Jurassic World [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7551782770,
+        "date": "1617654760",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Marvel Super Heroes [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8339141525,
+        "date": "1617656528",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Marvels Avengers [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7842583230,
+        "date": "1617656502",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Movie Videogame [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8233690398,
+        "date": "1617656641",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Pirates of the Caribbean [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7100178285,
+        "date": "1617656795",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Star Wars II - The Original Trilogy [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6189384757,
+        "date": "1617656757",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Star Wars III - The Clone Wars [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7005916378,
+        "date": "1617656898",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Star Wars The Complete Saga [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8069824449,
+        "date": "1617657044",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego Star Wars The Force Awakens [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 7218552883,
+        "date": "1617656999",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego The Hobbit [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8245602064,
+        "date": "1617657246",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Lego The Lord of the Rings [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 9000193991,
+        "date": "1617657269",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "LEGO.Star.Wars.1.The.Video.Game.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 755820249,
+        "date": "1661725477",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "LEGO.Star.Wars.2.The.Original.Trilogy.USA.XBOX-ZTM.rar",
+        "archive_identifier": "mxogcx-xbox-ztm",
+        "size": 886677640,
+        "date": "1661727358",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": false
+      },
+      {
+        "name": "Madagascar 2 [RF].zip",
+        "archive_identifier": "XBOX_360_3",
+        "size": 6497878884,
+        "date": "1617658898",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Madagascar 3 [RF].rar",
+        "archive_identifier": "XBOX_360_3",
+        "size": 8073122914,
+        "date": "1617659041",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Mini Ninjas [RF].rar",
+        "archive_identifier": "XBOX_360_4",
+        "size": 8073122914,
+        "date": "1617734279",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Rayman Origins [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7976348231,
+        "date": "1617836896",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Rayman Legends [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8089601036,
+        "date": "1617836677",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Sonic Generations [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 8128396903,
+        "date": "1617889300",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Sonic the Hedgehog [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7233778852,
+        "date": "1617889818",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Spongebobs Truth Or Square [NTSCU][NTSCJ].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 6822404395,
+        "date": "1617909273",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Black Knight Sword.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 1006546485,
+        "date": "1618353406",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Blade Kitten.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 557854831,
+        "date": "1618353405",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Blazing Birds.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 148821073,
+        "date": "1618353413",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Bliss Island.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 50369967,
+        "date": "1618353415",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Hexic HD.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 59498766,
+        "date": "1618355649",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Hexic 2.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 60958404,
+        "date": "1618355648",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Terraria [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7397107654,
+        "date": "1617913962",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "The First Templar [RF].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7338082953,
+        "date": "1617917187",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Zombie Apocalypse NDA.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 632215180,
+        "date": "1618379572",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "ZOMBIE APOCALYPSE.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 368360780,
+        "date": "1618379517",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Serious Sam HD [PAL].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7357177867,
+        "date": "1617885145",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Renegade Ops.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 2206705048,
+        "date": "1618377763",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Assault Heroes.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 51408135,
+        "date": "1618353127",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Assault Heroes 2.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 103295441,
+        "date": "1618353119",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Undertow.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 52559432,
+        "date": "1618379200",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "The Club [PAL][NTSCU].zip",
+        "archive_identifier": "XBOX_360_5",
+        "size": 7223313237,
+        "date": "1617915432",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Unreal Tournament 3 [RF].zip",
+        "archive_identifier": "XBOX_360_6",
+        "size": 6993571409,
+        "date": "1617976483",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Blazing Angels 2 Secret Missions [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 5609142983,
+        "date": "1617336045",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Teenage Mutant Ninja Turtles Out of the Shadows.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 1973464710,
+        "date": "1618378627",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Monday Night Combat.rar",
+        "archive_identifier": "XBOX_360_XBLA",
+        "size": 794399076,
+        "date": "1618357184",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      }
+    ]
+  }
+}

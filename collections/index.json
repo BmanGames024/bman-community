@@ -1,8 +1,20 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-10-31 22:43:20",
+  "updated": "2026-10-31 22:43:36",
   "collections": [
+    {
+      "id": "testv3-dcf63792",
+      "name": "testv3",
+      "description": "t",
+      "games": 2,
+      "size": 17038111442,
+      "shared": "2026-10-31 22:43:34",
+      "updated": "2026-10-31 22:43:34",
+      "app_version": "1.73",
+      "themes": 0,
+      "gamerpics": 0
+    },
     {
       "id": "testv2-a0a1c392",
       "name": "testv2",

@@ -1,0 +1,32 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.73",
+  "shared": "2026-10-31 22:36:21",
+  "collection": {
+    "name": "testv3",
+    "description": "t",
+    "created": "2026-10-31 22:36:11",
+    "updated": "2026-10-31 22:36:11",
+    "games": [
+      {
+        "name": "Call Of Duty 11 Advanced Warfare [PAL][NTSCU][DVD1].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8511688334,
+        "date": "1617393497",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Call Of Duty Black Ops 2 [RF].rar",
+        "archive_identifier": "XBOX_360_1",
+        "size": 8526423108,
+        "date": "1617394053",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      }
+    ]
+  }
+}

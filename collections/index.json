@@ -1,0 +1,19 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "updated": "2026-11-11 21:02:12",
+  "collections": [
+    {
+      "id": "boner-alert-6a9d5e89",
+      "name": "Boner Alert",
+      "description": "",
+      "games": 24,
+      "size": 66298512,
+      "shared": "2026-11-11 21:02:10",
+      "updated": "2026-11-11 21:02:10",
+      "app_version": "1.81",
+      "themes": 15,
+      "gamerpics": 9
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "format": "bman-community-index",
+  "version": 1,
+  "app_version": "1.84",
+  "shared": "2026-11-14 21:02:09",
+  "collection": {
+    "name": "GTA",
+    "description": "",
+    "created": "2026-10-31 21:36:08",
+    "updated": "2026-11-14 21:02:03",
+    "games": [
+      {
+        "name": "Grand Theft Auto 4 Episodes from Liberty City [RF].rar",
+        "archive_identifier": "XBOX_360_2",
+        "size": 8073122974,
+        "date": "1617586289",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto San Andreas [RF].zip",
+        "archive_identifier": "XBOX_360_2",
+        "size": 6941999584,
+        "date": "1617586989",
+        "source_type": "archive",
+        "allow_iso_conversion": true,
+        "content_source": false
+      },
+      {
+        "name": "Grand Theft Auto IV - The Ballad of Gay Tony (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 1883002756,
+        "date": "1618173916",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Grand Theft Auto IV - The Lost and Damned (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 1776844166,
+        "date": "1618173894",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Grand Theft Auto V - Collector's Edition Pack (World) (Addon).zip",
+        "archive_identifier": "XBOX_360_DLC_2",
+        "size": 9664,
+        "date": "1618173859",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      },
+      {
+        "name": "Grand Theft Auto V (God Format With DLC).zip",
+        "archive_identifier": "grand-theft-auto-v-god-format-with-dlc",
+        "size": 17493483854,
+        "date": "1786347802",
+        "source_type": "archive",
+        "allow_iso_conversion": false,
+        "content_source": true
+      }
+    ]
+  }
+}

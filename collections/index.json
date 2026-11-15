@@ -1,8 +1,20 @@
 {
   "format": "bman-community-index",
   "version": 1,
-  "updated": "2026-11-11 21:02:12",
+  "updated": "2026-11-14 21:02:11",
   "collections": [
+    {
+      "id": "gta-d4b8a9bb",
+      "name": "GTA",
+      "description": "",
+      "games": 6,
+      "size": 36168462998,
+      "shared": "2026-11-14 21:02:09",
+      "updated": "2026-11-14 21:02:09",
+      "app_version": "1.84",
+      "themes": 0,
+      "gamerpics": 0
+    },
     {
       "id": "boner-alert-6a9d5e89",
       "name": "Boner Alert",
